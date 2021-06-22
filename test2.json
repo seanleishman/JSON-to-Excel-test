@@ -1,0 +1,16 @@
+[{
+        "result_type": "ok",
+        "external_title": "",
+        "title": "[DS] Server reboots without user-acknowledgment on upgrade from 3.1.2 to 3.2.3a/3.2.3b",
+        "external_text": "",
+        "text": "",
+        "severity": "ok",
+        "authors": ["tnay", "kmccabe2", "fdemello"],
+        "name": "DS_UCS_CSCvj50398_Server_reboots_without",
+        "labels": [":UCS", ":Software_Failure", ":Bugs", ":UCSM", ":Automation", ":Diagnostic_Signature"],
+        "ic_type": "bug",
+        "module_date_modified": "None",
+        "alert_id": "75bb5668dff56653a5e021a7201191ee",
+        "issue_id": "8e8f8f65cf76eabf78c8bb0023ab06f9",
+        "problem_id": "bd14f34ead966db4f93da4b84cb869b5"
+    }]
